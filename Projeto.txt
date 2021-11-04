@@ -1,0 +1,9 @@
+Inscrição
+    nick
+    elo
+    rota1
+    rota2
+    winrate
+
+Montar Time
+    
